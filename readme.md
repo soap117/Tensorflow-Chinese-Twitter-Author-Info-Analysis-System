@@ -12,7 +12,7 @@ Requirement:
 2. jieba
 3. tinker
 4. gensim <br/>
-Download additional data from [here]() and unzip them into the branch.<br/>
+Download additional data from [here](https://drive.google.com/file/d/1Ed0gPxhszyV6AmvVm15jsWMRkYVaOswC/view?usp=sharing) and unzip them into the branch.<br/>
 run ana.py to activate the program.<br/>
 Click "加载模型" to load the trained model.<br/>
 Put your text into the chat box and click "ok" to analysis it.
